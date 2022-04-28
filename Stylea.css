@@ -1,0 +1,26 @@
+h1 {
+  font-size: 50px;
+  color: brown;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  text-transform: uppercase;
+}
+.Days {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  font-size: 21px;
+  color: rgb(65, 38, 42);
+}
+#years {
+  font-size: 29px;
+}
+
+a:hover {
+  color: brown;
+  font-size: xx-large;
+}
+h1:hover {
+  font-size: 300px;
+}
